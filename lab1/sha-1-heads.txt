@@ -1,0 +1,12 @@
+  Basic : HEAD SHA-1 checksum
+  C : HEAD SHA-1 checksum
+  C# : HEAD SHA-1 checksum
+  C++ : HEAD SHA-1 checksum
+  Java : HEAD SHA-1 checksum
+  JavaScript : HEAD SHA-1 checksum
+  Julia : HEAD SHA-1 checksum
+  Logo : HEAD SHA-1 checksum
+  Pascal : HEAD SHA-1 checksum
+  Python : HEAD SHA-1 checksum
+  jQuery : HEAD SHA-1 checksum
+  master : HEAD SHA-1 checksum
